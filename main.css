@@ -1,0 +1,93 @@
+ @font-face {
+    font-family: Shrift; /* Имя шрифта */
+    src: url(fonts/Shrift.otf); /* Путь к файлу со шрифтом */
+   }
+   #Name {
+    font-family: Shrift;
+    font-size: 250%;
+   }
+  
+
+img {
+    margin: 15px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: #000000;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #151f5c;
+}
+
+
+.id1 { 
+   width: 15em;
+   border: 1px solid #333;
+   box-shadow: 8px 8px 5px #444;
+   padding: 8px 12px;
+   background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+   float: left;
+        width: 30%;
+        height: 100px;
+   
+   }
+   .id2 { 
+    width: 15em;
+    border: 1px solid #333;
+    box-shadow: 8px 8px 5px #444;
+    padding: 8px 12px;
+    background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+    float: left;
+        width: 35%;
+        height: 100px;
+  }
+   .id3 { 
+     width: 15em;
+     border: 1px solid #333;
+     box-shadow: 8px 8px 5px #444;
+     padding: 8px 12px;
+     background-image: -webkit-linear-gradient(#fff, #ddd 40%, #ccc);
+     background-image: -o-linear-gradient(#fff, #ddd 40%, #ccc);
+     background-image: linear-gradient(#fff, #ddd 40%, #ccc);
+     float: left;
+        width: 25%;
+        height: 100px;
+     
+   }
+   .id4 { 
+   width: 15em;
+   border: 1px solid #333;
+   box-shadow: 8px 8px 5px #444;
+   padding: 8px 12px;
+   background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+   float: left;
+        width: 30%;
+        height: 100px;
+   }
+   .id5 { 
+    width: 15em;
+    border: 1px solid #333;
+    box-shadow: 8px 8px 5px #444;
+    padding: 8px 12px;
+    background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+     float: left;
+        width: 40%;
+        height: 100px;
+  }
+   .id6 { 
+     width: 15em;
+     border: 1px solid #333;
+     box-shadow: 8px 8px 5px #444;
+     padding: 8px 12px;
+     background-image: -webkit-linear-gradient(#fff, #ddd 40%, #ccc);
+     background-image: -o-linear-gradient(#fff, #ddd 40%, #ccc);
+     background-image: linear-gradient(#fff, #ddd 40%, #ccc);
+      float: left;
+        width: 40%;
+        height: 100px;
+   }
+   
